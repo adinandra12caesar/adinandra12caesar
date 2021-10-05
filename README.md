@@ -2,10 +2,10 @@
 
 ## I'm Dinan, 22 y.o, Data Science & Machine Learning Enthusiast!!!
 
-- 🔭 I'm fresh graduate of physing from UGM
+- 🔭 I'm fresh graduate of physics from UGM
 - 🌱 I’m currently learning about deep learning
 - 👯 I’m looking for internship / part-time
-- ⚡ Another Skill: Graphic Design (CorelDRAW, Adobe Photoshop, Adobe Premiere
+- ⚡ Another Skill: Graphic Design (CorelDRAW, Adobe Photoshop, Adobe Premiere)
 
 ## Completed Courses
 
